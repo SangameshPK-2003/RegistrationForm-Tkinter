@@ -1,7 +1,7 @@
-#GUI-Tkinter
+# GUI-Tkinter
 Tkinter is a widely used Python library for creating graphical user interfaces (GUIs). It provides a simple and intuitive way to build desktop applications with graphical elements such as windows, buttons, labels, text boxes, and more.
 
-#Features
+# Features
 1) Cross-Platform
 2) Widget Set
 3) Event-Driven
