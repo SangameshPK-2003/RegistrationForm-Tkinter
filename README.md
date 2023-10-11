@@ -7,4 +7,4 @@ Tkinter is a widely used Python library for creating graphical user interfaces (
 3) Open Source
 
 # Image
-<img src="![Registration Form](RegForm.png)"/>
+<img src="![Registration Form](RegForm.png)"></img>
