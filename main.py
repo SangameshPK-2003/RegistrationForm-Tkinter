@@ -28,10 +28,10 @@ en4 = Entry(base)
 en4.place(x=200, y=240)
 
 lb5 = Label(base, text="Select Gender", width=15, font=("arial",12))
-lb5.place(x=5, y=240)
+lb5.place(x=5, y=260)
 vars = IntVar()
-Radiobutton(base, text="Male", padx=5,variable=vars, value=1).place(x=180, y=240)
-Radiobutton(base, text="Female", padx =10,variable=vars, value=2).place(x=240,y=240)
+Radiobutton(base, text="Male", padx=5,variable=vars, value=1).place(x=180, y=260)
+Radiobutton(base, text="Female", padx =10,variable=vars, value=2).place(x=240,y=260)
 
 lb6 = Label(base, text="Enter Password", width=13,font=("arial",12))
 lb6.place(x=19, y=300)
