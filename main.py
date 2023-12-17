@@ -7,7 +7,12 @@ base.maxsize(500,500)
 lb1 = Label(base, text="Registration Form", width=40, font=("arial",12),fg="red")
 lb1.place(x=50, y=70)
 
-lb2 = Label(base, text="Enter Name", width=10, font=("arial",12))
+lb2 = Label(base, text="Enter First Name", width=10, font=("arial",12))
+lb2.place(x=20, y=120)
+en2 = Entry(base)
+en2.place(x=200, y=120)
+
+lb2 = Label(base, text="Enter Second Name", width=10, font=("arial",12))
 lb2.place(x=20, y=120)
 en2 = Entry(base)
 en2.place(x=200, y=120)
