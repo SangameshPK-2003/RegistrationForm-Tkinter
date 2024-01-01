@@ -4,6 +4,7 @@ base.geometry("500x500")
 base.title("registration form")
 base.maxsize(500,500)
 
+
 lb1 = Label(base, text="Registration Form", width=40, font=("arial",12),fg="red")
 lb1.place(x=50, y=70)
 
